@@ -1,2 +1,2 @@
 # Library-Management-System
-Java based Library Management System Project using MySQL
+A console-based Library Management System built using Java and MySQL eith features to add, view, search, update, and delete book records efficiently.
