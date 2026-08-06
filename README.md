@@ -1,5 +1,5 @@
 # Library-Management-System
-A Java based Library Management System developed to manage library operations ,
+A Java based Library Management System developed to manage library operations .
 
 ## Technologies used
 - Java
